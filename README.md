@@ -2,7 +2,7 @@
 
 > **A clean, ready-to-use Google Drive folder structure** for students, researchers, international students, and anyone who wants a neatly organised digital life on cloud storage.
 
-Created by **[Nhat-Le Vo](https://github.com/vntle)** — Doctoral researcher in Germany.
+Created by **[Nhat Le Vo](https://github.com/vntle)** — Doctoral researcher in Germany.
 
 ---
 
@@ -114,8 +114,8 @@ See full rules in [`99_SYSTEM_METADATA/Naming_Conventions.md`](99_SYSTEM_METADAT
 
 ## Author
 
-**Nhat-Le Vo**  
-Doctoral researcher — MARUM, Center for Marine Environmental Sciences & Faculty of Geosciences, University of Bremen.  
+**Nhat Le Vo**  
+Doctoral researcher.  
 GitHub: [@vntle](https://github.com/vntle)
 
 ## Citation
@@ -123,7 +123,7 @@ GitHub: [@vntle](https://github.com/vntle)
 If this template helps you and you want to credit the source:
 
 ```
-Vo, N.-L. (2026). Universal Google Drive Folder Template. GitHub repository.
+Vo, N. Le. (2026). Universal Google Drive Folder Template. GitHub repository.
 https://github.com/vntle/universal-gdrive-folder-template
 ```
 
