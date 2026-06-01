@@ -1,0 +1,134 @@
+ROOT/
+├── 01_SCHOOL_AND_STUDY/
+│   ├── Current_Semester/
+│   │   ├── Course-01_Name/
+│   │   │   ├── Lectures_Slides/
+│   │   │   ├── Notes/
+│   │   │   ├── Assignments/
+│   │   │   ├── Readings_PDFs/
+│   │   │   └── Exams_Quizzes/
+│   │   └── Course-02_Name/
+│   ├── Previous_Semesters/
+│   │   ├── Year-01/
+│   │   │   ├── Semester-01/
+│   │   │   └── Semester-02/
+│   │   └── Year-02/
+│   ├── Thesis_or_Dissertation/
+│   │   ├── 01_Literature_Review/
+│   │   ├── 02_Data_Raw/
+│   │   ├── 03_Analysis/
+│   │   ├── 04_Figures_Plots/
+│   │   ├── 05_Drafts/
+│   │   ├── 06_Final/
+│   │   └── 07_Defense_Presentation/
+│   ├── Extracurricular_Academic/
+│   │   ├── Clubs_Associations/
+│   │   ├── Competitions/
+│   │   └── Conferences_Attended/
+│   ├── Certificates_and_Transcripts/
+│   │   ├── Degree_Certificates/
+│   │   ├── Course_Certificates/
+│   │   ├── Language_Certificates/
+│   │   └── Transcripts/
+│   └── Applications/
+│       ├── University_Applications/
+│       ├── Scholarship_Applications/
+│       └── Exchange_Program/
+├── 02_WORK_AND_CAREER/
+│   ├── CV_and_Resume/
+│   │   ├── CV_Latest/
+│   │   ├── CV_Versions_Archive/
+│   │   └── Cover_Letters/
+│   ├── Internships/
+│   ├── Jobs/
+│   ├── Side_Projects/
+│   ├── Portfolio/
+│   └── References_and_Letters/
+├── 03_PERSONAL_DOCUMENTS/
+│   ├── 01_Identity/
+│   │   ├── Passport/
+│   │   ├── National_ID/
+│   │   ├── Birth_Certificate/
+│   │   └── Driver_License/
+│   ├── 02_Visa_and_Residence/
+│   │   ├── Student_Visa/
+│   │   ├── Residence_Permit/
+│   │   ├── Work_Permit/
+│   │   └── Entry_Documents/
+│   ├── 03_University_Admin/
+│   │   ├── Admission_Letters/
+│   │   ├── Enrollment_Documents/
+│   │   ├── Tuition_Receipts/
+│   │   └── Student_ID/
+│   ├── 04_Housing/
+│   │   ├── Rental_Contract/
+│   │   ├── Utility_Bills/
+│   │   └── Registration_Documents/
+│   └── 05_Legal_Other/
+│       ├── Insurance_Documents/
+│       └── Important_Contracts/
+├── 04_FINANCE_AND_ADMIN/
+│   ├── Bank_Statements/
+│   ├── Tax_Returns/
+│   ├── Scholarships_and_Funding/
+│   ├── Receipts_and_Invoices/
+│   └── Subscriptions/
+├── 05_HEALTH_AND_WELLBEING/
+│   ├── Health_Insurance/
+│   ├── Medical_Records/
+│   ├── Vaccination_Records/
+│   ├── Prescriptions/
+│   └── Fitness_Tracking/
+├── 06_PHOTOS_AND_VIDEOS/
+│   ├── By_Year/
+│   ├── By_Category/
+│   ├── Videos/
+│   ├── Phone_Backup/
+│   └── Editing_Projects/
+├── 07_AUDIO_AND_MUSIC/
+│   ├── My_Music_Collection/
+│   ├── Playlists_Exports/
+│   ├── Personal_Recordings/
+│   ├── Music_Production/
+│   ├── Sheet_Music_and_Scores/
+│   ├── Podcasts/
+│   └── Audiobooks/
+├── 08_HOBBIES_AND_LEARNING/
+│   ├── Online_Courses/
+│   ├── E_Books_and_PDFs/
+│   ├── Language_Learning/
+│   ├── Creative_Work/
+│   ├── Recipes_and_Food/
+│   ├── Gaming/
+│   └── DIY_and_Maker_Projects/
+├── 09_TRAVEL_AND_MOVING/
+│   ├── Upcoming_Trips/
+│   ├── Past_Trips/
+│   ├── International_Move/
+│   └── Transport_Documents/
+├── 10_SOCIAL_MEDIA_AND_BRANDING/
+│   ├── Personal_Brand/
+│   ├── Instagram/
+│   ├── LinkedIn/
+│   ├── YouTube/
+│   ├── TikTok/
+│   ├── Other_Platforms/
+│   ├── Content_Planning/
+│   └── Social_Media_Backups/
+├── 11_TEMPLATES_AND_RESOURCES/
+│   ├── Document_Templates/
+│   ├── Graphic_Assets/
+│   └── Useful_Scripts/
+├── 12_TEMP_UNSORTED/
+│   ├── Downloads_To_Sort/
+│   ├── Working_Now/
+│   └── To_Decide_Delete_or_Keep/
+├── 13_ARCHIVE/
+│   ├── Old_Projects/
+│   ├── Old_Courses/
+│   ├── Old_Files_Uncertain/
+│   └── Expired_Documents/
+└── 99_SYSTEM_METADATA/
+    ├── Folder_Map.md
+    ├── Naming_Conventions.md
+    └── Cleanup_Checklist.md
