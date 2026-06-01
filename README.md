@@ -2,7 +2,7 @@
 
 > **A clean, ready-to-use Google Drive folder structure** for students, researchers, international students, and anyone who wants a neatly organised digital life on cloud storage.
 
-Created by **[Nhat-Le Vo](https://github.com/vntle)** — Doctoral researcher at MARUM, University of Bremen.
+Created by **[Nhat-Le Vo](https://github.com/vntle)** — Doctoral researcher in Germany.
 
 ---
 
@@ -12,7 +12,7 @@ This template was made to help **everyone who uses cloud storage** — especiall
 
 - 🎓 **Students** at all levels: high school, undergraduate, postgraduate
 - 🌍 **International students** navigating visas, housing, admin, and new countries
-- 🔬 **Researchers** managing data, papers, and projects
+- 🔬 **Researchers and engineer** managing data, papers, and projects
 - 🧑‍💻 **Professionals and creators** who need a clean place for work, media, and personal files
 - 📦 **Anyone** whose files are scattered and chaotic
 
