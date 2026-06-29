@@ -1,6 +1,6 @@
 # Universal Google Drive Folder Template
 
-> **A clean, ready-to-use Google Drive folder structure** for students, researchers, international students, and anyone who wants a neatly organised digital life on cloud storage.
+> **A clean, ready-to-use Google Drive folder structure** for students/international students, researchers, office workers, engineers, artists or anyone who wants a neatly organised digital life on cloud storage.
 
 Created by **[Nhat Le Vo](https://github.com/vntle)** — Doctoral researcher in Germany.
 
