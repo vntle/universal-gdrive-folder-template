@@ -1,134 +1,192 @@
+# Universal GDrive Folder Template (Generated)
+
+## Core folders (upload only these ten folders)
 ROOT/
+├── 00_INBOX/
+│   ├── Processing_Now/
+│   └── To_Sort/
 ├── 01_SCHOOL_AND_STUDY/
-│   ├── Current_Semester/
-│   │   ├── Course-01_Name/
-│   │   │   ├── Lectures_Slides/
-│   │   │   ├── Notes/
-│   │   │   ├── Assignments/
-│   │   │   ├── Readings_PDFs/
-│   │   │   └── Exams_Quizzes/
-│   │   └── Course-02_Name/
-│   ├── Previous_Semesters/
-│   │   ├── Year-01/
-│   │   │   ├── Semester-01/
-│   │   │   └── Semester-02/
-│   │   └── Year-02/
-│   ├── Thesis_or_Dissertation/
-│   │   ├── 01_Literature_Review/
-│   │   ├── 02_Data_Raw/
-│   │   ├── 03_Analysis/
-│   │   ├── 04_Figures_Plots/
-│   │   ├── 05_Drafts/
-│   │   ├── 06_Final/
-│   │   └── 07_Defense_Presentation/
-│   ├── Extracurricular_Academic/
-│   │   ├── Clubs_Associations/
-│   │   ├── Competitions/
-│   │   └── Conferences_Attended/
+│   ├── Academic_Activities/
+│   │   └── Conferences_and_Competitions/
+│   ├── Applications_and_Funding/
+│   │   ├── Exchange_Programs/
+│   │   ├── Scholarship_Applications/
+│   │   └── University_Applications/
 │   ├── Certificates_and_Transcripts/
-│   │   ├── Degree_Certificates/
 │   │   ├── Course_Certificates/
+│   │   ├── Degree_Certificates/
 │   │   ├── Language_Certificates/
-│   │   └── Transcripts/
-│   └── Applications/
-│       ├── University_Applications/
-│       ├── Scholarship_Applications/
-│       └── Exchange_Program/
+│   │   └── Official_Transcripts/
+│   ├── Current_Term/
+│   │   └── _EXAMPLE_COURSE/
+│   ├── Past_Terms/
+│   │   └── _EXAMPLE_YEAR_TERM/
+│   └── Thesis_and_Research/
+│       ├── Analysis/
+│       ├── Data/
+│       ├── Drafts/
+│       └── Literature/
 ├── 02_WORK_AND_CAREER/
-│   ├── CV_and_Resume/
-│   │   ├── CV_Latest/
-│   │   ├── CV_Versions_Archive/
-│   │   └── Cover_Letters/
-│   ├── Internships/
-│   ├── Jobs/
-│   ├── Side_Projects/
+│   ├── CV_and_Resumes/
+│   │   ├── Cover_Letters/
+│   │   ├── Current_Version/
+│   │   └── Previous_Versions/
+│   ├── Employment/
+│   │   ├── References_and_Recommendations/
+│   │   └── _EXAMPLE_EMPLOYER_ROLE/
+│   ├── Job_Search/
+│   │   ├── Applications/
+│   │   └── Interview_Preparation/
 │   ├── Portfolio/
-│   └── References_and_Letters/
-├── 03_PERSONAL_DOCUMENTS/
-│   ├── 01_Identity/
-│   │   ├── Passport/
-│   │   ├── National_ID/
+│   │   ├── Creative/
+│   │   ├── Research/
+│   │   └── Technical/
+│   ├── Professional_Development/
+│   │   └── Certifications/
+│   └── Projects/
+│       └── _EXAMPLE_PROJECT/
+├── 03_IDENTITY_LEGAL_ADMIN/
+│   ├── Banking_and_Payments/
+│   │   ├── Bank_Statements/
+│   │   └── Payment_Confirmations/
+│   ├── Government_and_Admin/
+│   │   └── Official_Correspondence/
+│   ├── Housing_and_Utilities/
+│   │   ├── Rental_Agreements/
+│   │   └── Utility_Bills/
+│   ├── Identity/
 │   │   ├── Birth_Certificate/
-│   │   └── Driver_License/
-│   ├── 02_Visa_and_Residence/
-│   │   ├── Student_Visa/
-│   │   ├── Residence_Permit/
-│   │   ├── Work_Permit/
-│   │   └── Entry_Documents/
-│   ├── 03_University_Admin/
-│   │   ├── Admission_Letters/
-│   │   ├── Enrollment_Documents/
-│   │   ├── Tuition_Receipts/
-│   │   └── Student_ID/
-│   ├── 04_Housing/
-│   │   ├── Rental_Contract/
-│   │   ├── Utility_Bills/
-│   │   └── Registration_Documents/
-│   └── 05_Legal_Other/
-│       ├── Insurance_Documents/
-│       └── Important_Contracts/
-├── 04_FINANCE_AND_ADMIN/
-│   ├── Bank_Statements/
-│   ├── Tax_Returns/
-│   ├── Scholarships_and_Funding/
+│   │   ├── Driver_License/
+│   │   ├── National_ID/
+│   │   └── Passport/
+│   ├── Immigration_and_Residence/
+│   │   ├── Residence_Permits/
+│   │   └── Visas/
+│   ├── Legal_and_Insurance/
+│   │   ├── Contracts/
+│   │   └── Insurance_Policies/
 │   ├── Receipts_and_Invoices/
-│   └── Subscriptions/
-├── 05_HEALTH_AND_WELLBEING/
-│   ├── Health_Insurance/
+│   │   ├── Education_and_Scholarship/
+│   │   ├── Home_and_Living/
+│   │   └── Travel/
+│   ├── Subscriptions_and_Services/
+│   │   └── Software_Licenses/
+│   └── Taxes_and_Compliance/
+│       └── _EXAMPLE_COUNTRY_YEAR/
+├── 04_HEALTH_AND_WELLBEING/
+│   ├── Emergency_Contacts/
+│   │   └── List/
+│   ├── Insurance/
+│   │   ├── Claims/
+│   │   └── Policy_Documents/
 │   ├── Medical_Records/
-│   ├── Vaccination_Records/
-│   ├── Prescriptions/
-│   └── Fitness_Tracking/
-├── 06_PHOTOS_AND_VIDEOS/
-│   ├── By_Year/
-│   ├── By_Category/
-│   ├── Videos/
-│   ├── Phone_Backup/
-│   └── Editing_Projects/
-├── 07_AUDIO_AND_MUSIC/
-│   ├── My_Music_Collection/
-│   ├── Playlists_Exports/
-│   ├── Personal_Recordings/
-│   ├── Music_Production/
-│   ├── Sheet_Music_and_Scores/
-│   ├── Podcasts/
-│   └── Audiobooks/
-├── 08_HOBBIES_AND_LEARNING/
-│   ├── Online_Courses/
-│   ├── E_Books_and_PDFs/
+│   │   ├── Lab_Results/
+│   │   ├── Primary_Care/
+│   │   └── Specialists/
+│   ├── Mental_Health/
+│   │   └── Resources/
+│   ├── Prescriptions_and_Medications/
+│   │   └── Active/
+│   ├── Vaccinations/
+│   │   └── Certificates/
+│   └── Wellbeing_and_Fitness/
+│       └── Plans/
+├── 05_PHOTOS_AND_VIDEOS/
+│   ├── Camera_Imports/
+│   │   ├── Camera_Dumps/
+│   │   └── Phone_Backups/
+│   ├── Edited_Media/
+│   │   ├── Final_Exports/
+│   │   └── Work_In_Progress/
+│   ├── Personal_Photos/
+│   │   ├── Events/
+│   │   ├── Family_and_Friends/
+│   │   └── Portraits/
+│   ├── Travel_Photos/
+│   │   └── _EXAMPLE_TRIP/
+│   └── Videos/
+│       ├── Event_Videos/
+│       ├── Personal_Clips/
+│       └── Travel_Videos/
+├── 06_HOBBIES_AND_LEARNING/
+│   ├── Courses_and_Certifications/
+│   │   └── _EXAMPLE_COURSE/
+│   ├── Creative_Hobbies/
+│   │   ├── Art_and_Writing/
+│   │   └── DIY_and_Maker/
 │   ├── Language_Learning/
-│   ├── Creative_Work/
-│   ├── Recipes_and_Food/
-│   ├── Gaming/
-│   └── DIY_and_Maker_Projects/
-├── 09_TRAVEL_AND_MOVING/
-│   ├── Upcoming_Trips/
-│   ├── Past_Trips/
+│   │   └── _EXAMPLE_LANGUAGE/
+│   ├── Music_Listening/
+│   │   └── Albums_and_Playlists/
+│   ├── Music_Practice/
+│   │   ├── Practice_Recordings/
+│   │   └── Sheet_Music/
+│   ├── Podcasts_and_Audiobooks/
+│   │   └── Saved_Episodes/
+│   ├── Reading_and_Notes/
+│   │   ├── Fiction_and_Non_Fiction/
+│   │   └── Reference/
+│   └── Recipes_and_Food/
+│       └── Collections/
+├── 07_TRAVEL_AND_MOVING/
 │   ├── International_Move/
-│   └── Transport_Documents/
-├── 10_SOCIAL_MEDIA_AND_BRANDING/
-│   ├── Personal_Brand/
-│   ├── Instagram/
-│   ├── LinkedIn/
-│   ├── YouTube/
-│   ├── TikTok/
-│   ├── Other_Platforms/
-│   ├── Content_Planning/
-│   └── Social_Media_Backups/
-├── 11_TEMPLATES_AND_RESOURCES/
+│   │   ├── Arrival_and_Registration/
+│   │   ├── Housing_Setup/
+│   │   └── Pre_Departure/
+│   ├── Memories_and_Logs/
+│   │   └── Trip_Notes/
+│   ├── Transport_and_Bookings/
+│   │   ├── Accommodation/
+│   │   ├── Flights/
+│   │   └── Trains_and_Buses/
+│   ├── Travel_Admin/
+│   │   └── Insurance_and_Visas/
+│   └── Trip_Planning/
+│       ├── Itinerary_Templates/
+│       ├── Past_Trips/
+│       │   └── _EXAMPLE_TRIP/
+│       └── Upcoming_Trips/
+│           └── _EXAMPLE_TRIP/
+├── 08_TEMPLATES_AND_RESOURCES/
+│   ├── Automation_and_Scripts/
+│   │   └── _EXAMPLE_SCRIPT_PROJECT/
 │   ├── Document_Templates/
-│   ├── Graphic_Assets/
-│   └── Useful_Scripts/
-├── 12_TEMP_UNSORTED/
-│   ├── Downloads_To_Sort/
-│   ├── Working_Now/
-│   └── To_Decide_Delete_or_Keep/
-├── 13_ARCHIVE/
-│   ├── Old_Projects/
-│   ├── Old_Courses/
-│   ├── Old_Files_Uncertain/
-│   └── Expired_Documents/
-└── 99_SYSTEM_METADATA/
-    ├── Folder_Map.md
-    ├── Naming_Conventions.md
-    └── Cleanup_Checklist.md
+│   │   ├── CV_and_Resume/
+│   │   ├── Cover_Letter/
+│   │   ├── Presentations/
+│   │   └── Reports/
+│   ├── Media_Templates/
+│   │   ├── Captions_and_Copy/
+│   │   └── Thumbnails_and_Banners/
+│   ├── Project_Templates/
+│   │   ├── Research_Project/
+│   │   └── Side_Project/
+│   └── Reference_Assets/
+│       └── Fonts_and_Icons/
+└── 09_ARCHIVE/
+    ├── Inactive_Projects/
+    │   └── _EXAMPLE_PROJECT/
+    ├── Legacy_Documents/
+    │   ├── Expired/
+    │   └── Superseded/
+    ├── Old_Courses/
+    │   └── _EXAMPLE_COURSE/
+    ├── To_Delete_After_Review/
+    └── Yearly_Archive/
+        └── _EXAMPLE_YEAR/
+
+## Optional extras (opt-in, upload only if needed)
+OPTIONAL_EXTRAS/
+├── OPTIONAL_CREATOR_WORKFLOWS/
+│   ├── Account_Exports/
+│   ├── Analytics_and_Reports/
+│   ├── Content_Ideation/
+│   ├── Production_Pipeline/
+│   └── Publishing_Queue/
+└── OPTIONAL_MUSIC_PRODUCTION/
+    ├── DAW_Projects/
+    │   └── _EXAMPLE_TRACK/
+    ├── MIDI_and_Presets/
+    ├── Mastered_Exports/
+    ├── Plugin_Setups/
+    └── Sample_Libraries/
